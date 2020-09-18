@@ -1,8 +1,6 @@
-# Webpack starter configuration
+# TODO
 
-This is the initial project for create app webpack.
-
-### Notes
+This is a web application on a task list made in Javascript
 
 #### Instructions:
 
